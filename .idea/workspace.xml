@@ -6,17 +6,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="331befbe-491a-4831-965b-aff83b6b3e4f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data-error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/denser-data-error.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/four-spirals.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/data-four.csv" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/generate-four-spirals.py" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/original-dataset-intermedidate-output.png" afterPath="$PROJECT_DIR$/original-dataset-intermediate-output.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pybrain-classify.py" afterPath="$PROJECT_DIR$/pybrain-classify.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/task 1.iml" afterPath="$PROJECT_DIR$/.idea/task 1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/weka-load-data-with-headers-tabs.loa" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="task 1.iws" />
@@ -66,7 +56,7 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.57749075" vertical-offset="673" max-vertical-offset="1215">
+            <state vertical-scroll-proportion="0.25276753" vertical-offset="223" max-vertical-offset="1215">
               <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
               <folding />
             </state>
@@ -419,10 +409,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="27" width="1922" height="1054" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2226913" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2226913" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32928064" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -597,7 +587,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.57749075" vertical-offset="673" max-vertical-offset="1215">
+        <state vertical-scroll-proportion="0.25276753" vertical-offset="223" max-vertical-offset="1215">
           <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
           <folding />
         </state>
